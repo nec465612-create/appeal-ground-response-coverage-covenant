@@ -1,0 +1,7 @@
+{
+  "appeal_id": "e2e-gap-001",
+  "corrected_response_revision": "rev-2",
+  "expected_status_after_correction": "CORRECTED",
+  "expected_status_after_reassessment": "COVERED",
+  "expected_closure_ready": true
+}

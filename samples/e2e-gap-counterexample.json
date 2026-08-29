@@ -1,0 +1,8 @@
+{
+  "appeal_id": "e2e-gap-001",
+  "grounds": ["g1", "g2"],
+  "response_revision": "rev-1",
+  "omitted_ground_ids": ["g2"],
+  "expected_status": "GAPS_FOUND",
+  "expected_closure_ready": false
+}

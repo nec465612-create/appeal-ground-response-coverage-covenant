@@ -1,0 +1,7 @@
+{
+  "appeal_id": "e2e-covered-001",
+  "grounds": ["g1", "g2"],
+  "response_revision": "rev-1",
+  "expected_status": "COVERED",
+  "expected_closure_ready": true
+}
